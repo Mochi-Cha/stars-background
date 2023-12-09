@@ -7,7 +7,7 @@ This project is a simple webpage with a stars background. The background is impl
 To install this project, you will need to have Node.js and npm installed on your machine. Once you have these, you can clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/yourusername/stars-background.git
+git clone https://github.com/mochi-cha/stars-background.git
 cd stars-background
 npm install
 ```
